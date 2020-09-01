@@ -1,0 +1,27 @@
+type: DoubleTurret
+name: PetruCHIO turret
+description: Bruh what is it?
+health: 250
+size: 1
+reload: 4
+range: 150
+ammoUseEffect: shellEjectSmall
+inaccuracy: 25
+rotatespeed: 5
+ammo: {
+  petruchio: {
+    speed: 5
+    damage: 10
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  petruchio/35
+  copper/20
+]
+category: turret
+research: duo
