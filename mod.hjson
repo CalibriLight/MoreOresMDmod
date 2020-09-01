@@ -2,5 +2,5 @@ name: "more-mod"
 displayName: "[blue]More[royal] Ores Mod" //what displays in the mod selection menu
 author: "Anuke"
 description: "This mod add three [red]ores [] and too many things"
-version: "0.2"
+version: "0.3"
 minGameVersion: "103"
