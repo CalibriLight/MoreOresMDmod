@@ -1,0 +1,6 @@
+type: material
+name: Russian ore
+description: Russia != Vodka
+hardness: 4
+cost: 2
+color: ffffff
