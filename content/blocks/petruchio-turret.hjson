@@ -18,6 +18,15 @@ ammo: {
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
   }
+  russian: {
+    speed: 5
+    damage: 15
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 10
+  }
 }
 requirements: [
   petruchio/35
