@@ -27,6 +27,15 @@ ammo: {
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 10
   }
+  copper: {
+    speed: 3
+    damage: 5
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
 }
 requirements: [
   petruchio/35
