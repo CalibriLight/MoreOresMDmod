@@ -20,7 +20,7 @@ requirements: [
   petruchio/50
 ]
 category: crafting
-research: copper-compressor
+research: kiln
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: russian/1
