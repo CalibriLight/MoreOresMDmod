@@ -7,6 +7,8 @@ Add:
 4. Blocks "Vodka Maker" & "Copper Compressor"
 5. Turret "PetruCHIO"
 
+*Warning! For best experience we recommend ExampleMod by Anuken on GitHub!*
+
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CalibriLight/MoreOresMDmod?style=plastic)
 
 # How to install?
