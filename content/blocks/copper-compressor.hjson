@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Copper Compressor
+description: Compress Copper to clean Russian Ore.
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      copper/2
+    ]
+  }
+}
+requirements: [
+  thorium/80
+  petruchio/50
+]
+category: crafting
+research: copper-compressor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: russian/1
