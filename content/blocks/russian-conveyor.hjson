@@ -1,0 +1,12 @@
+type: Conveyor
+name: Russian conveyor
+description: SPIIIIID! (bruh, no)
+requirements: [
+  titanium/3
+  copper/3
+  petruchio/3
+  russian/3
+]
+category: distribution
+speed: 0.15
+research: titanium-conveyor
