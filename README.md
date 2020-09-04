@@ -9,7 +9,7 @@ Add:
 
 *Warning! For best experience we recommend ExampleMod by Anuken on GitHub!*
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CalibriLight/MoreOresMDmod?style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/CalibriLight/MoreOresMDmod)
 
 # How to install?
 
