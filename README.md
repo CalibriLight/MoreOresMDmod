@@ -4,7 +4,7 @@ Add:
 1. Ore "PetruCHIO"
 2. Ore "Russian"
 3. Liquid "Vodka"
-4. Blocks "Vodka Maker" & "Copper Compressor"
+4. Blocks "Vodka Maker", "Server" & "Copper Compressor"
 5. Turret "PetruCHIO"
 
 *Warning! For best experience we recommend ExampleMod by Anuken on GitHub!*
