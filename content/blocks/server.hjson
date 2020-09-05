@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Server petruchio.org.ru
+description: Combines molten silver and gold powder to produce electrum.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.9
+  items: {
+    items: [
+      copper/2
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 1
+  }
+}
+requirements: [
+  copper/10
+  titanium/20
+  lead/25
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: petruchio/1
