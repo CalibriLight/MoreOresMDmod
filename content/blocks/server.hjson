@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Server petruchio.org.ru
-description: Combines molten silver and gold powder to produce electrum.
+description: ONLY SERVER!!!!
 liquidCapacity: 50
 size: 2
 hasPower: true
