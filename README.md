@@ -11,7 +11,7 @@ Add:
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CalibriLight/MoreOresMDmod)
 
-# Join our chat!
+# Join our Discord!
 
 ![Discord](https://img.shields.io/discord/751402295958437969)
 
