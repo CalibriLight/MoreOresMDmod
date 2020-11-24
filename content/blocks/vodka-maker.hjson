@@ -21,6 +21,6 @@ requirements: [
   petruchio/20
 ]
 category: crafting
-research: server
+research: copper-compressor
 idleSound: respawning
 idleSoundVolume: 0.5

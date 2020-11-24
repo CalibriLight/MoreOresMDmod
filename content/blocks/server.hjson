@@ -26,7 +26,7 @@ requirements: [
   lead/25
 ]
 category: crafting
-research: copper-compressor
+research: router
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: petruchio/1
