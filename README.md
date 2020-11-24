@@ -1,6 +1,6 @@
 # Mindustry Mod "MoreOres"
 Mindustry Mod "More Ores"
-Add: 
+Add:
 1. Ore "PetruCHIO"
 2. Ore "Russian"
 3. Liquid "Vodka"
@@ -19,8 +19,8 @@ Add:
 
 # How to install?
 
-Open Mindustry => Mods => Import mod from GitHub => CalibriLight/MoreOresMDmod
+Open GitHub Mod repo => Releases => Download Source code (.zip) and import into Mindustry
 
 Don't work?
 
-Open GitHub Mod repo => Releases => Download Source code (.zip) and import into Mindustry
+Open Mindustry => Mods => Import mod from GitHub => CalibriLight/MoreOresMDmod
