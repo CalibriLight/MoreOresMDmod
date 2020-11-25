@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: "Vodka Maker"
-description: "Perfect Vodka Maker! Making too many Vodka!"
+name: "Vodka Generator"
+description: "Do not drink it!"
 liquidCapacity: 50
 outputLiquid: {
   liquid: vodka
