@@ -8,6 +8,8 @@ range: 150
 ammoUseEffect: shellEjectSmall
 inaccuracy: 25
 rotatespeed: 5
+shotWith: 2
+shots: 2
 ammo: {
   petruchio: {
     speed: 5
